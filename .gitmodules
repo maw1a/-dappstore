@@ -1,0 +1,3 @@
+[submodule "lib/account-abstraction"]
+	path = lib/account-abstraction
+	url = https://github.com/maw1a/account-abstraction.git
